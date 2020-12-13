@@ -81,6 +81,11 @@ h6 {
   border-bottom: 1px solid var(--borderColor);
   overflow: auto;
 }
+.s3 {
+  background-color: var(--secondaryColor);
+  border-bottom: 1px solid var(--borderColor);
+  overflow: auto;
+}
 
 .main-container {
   width: 1200px;
